@@ -79,6 +79,7 @@ self explanatory:
 git --version
 git status
 git log
+git log --pretty=oneline
 ```
 check remote repos with alias'
 ```
